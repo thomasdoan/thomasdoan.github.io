@@ -1,0 +1,23 @@
+{% if tags_page %}
+<a id="email-link"
+    class="icon" title="Email" aria-label="Email"
+    href="mailto:{{ site.email }}">
+  {% include icon/email.svg %}
+</a>
+{% endif %}
+
+{% if tags_page %}
+  <a id="github-link"
+     class="icon" title="Github" aria-label="Github"
+     href="https://github.com/thomasdoan">
+    {% include icon/github.svg %}
+  </a>
+{% endif %}
+
+{% if tags_page %}
+  <a id="linkedin-link"
+     class="icon" title="LinkedIn" aria-label="LinkedIn"
+     href="www.linkedin.com/in/thomas-doan">
+    {% include icon/linkedin.svg %}
+  </a>
+{% endif %}
