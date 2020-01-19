@@ -30,7 +30,7 @@ github_username:  thomasdoan
 paginate: 10
 sidebar_home_link: true
 
-# excerpt_separator: <!--more-->
+excerpt_separator: <!--more-->
 
 # Build settings
 # theme: jekyll-theme-hydeout
