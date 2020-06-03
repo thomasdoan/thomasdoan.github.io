@@ -14,3 +14,9 @@ Here are some of my projects.
     </figure>
     > Tech Used: Python, Matplotlib, Plotly, Pandas
 
+- [Sudoku Solver]  
+    A Sudoku puzzle solver using backtracking with the GUI written using PyGame.
+    <figure class="video_container">
+    <iframe src='https://thomasdoan.github.io/exports/SudokuSolver.gif' height='100%' width='100%'> </iframe>
+    </figure>
+    > Tech Used: Python, PyGame
