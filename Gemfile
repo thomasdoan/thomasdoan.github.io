@@ -19,10 +19,10 @@ gem "jekyll-theme-hydeout", "~> 3.4"
 ##  gem "jekyll-feed", "~> 0.12"
 ##end
 
-gem "jekyll", "~> 3.8.5"
-gem "github-pages","~> 202" , group: :jekyll_plugins
+gem "jekyll", "~> 3.9.0"
+gem "github-pages","~> 213" , group: :jekyll_plugins
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.11.0"
+  gem "jekyll-feed", "~> 0.15.1"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
