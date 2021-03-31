@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: Projects
-sidebar_link: true
+sidebar_link: false
 ---
 
-Here are some of my projects.
+# Some of my projects.
 
 - [Los Angeles Collisions from 2013-2018](https://thomasdoan.github.io/exports/Collisions.html)  
     A project that examined traffic collisions in the Los Angeles area. Mapped areas with the largest amount of collisions and created other interesting visualizations regarding the data. 
